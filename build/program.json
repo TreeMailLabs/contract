@@ -1,0 +1,10 @@
+{
+    "program": "private_dmail_v1.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp3jDZh8xLbwPeHX9cp4UxVceQhnYsmRj5BNbCw8uM2vDr",
+        "address": "aleo156x80rs6g9q60nmpkgryyhfl8zruxg26k5lj4k4mup5fn6vlfq9sx2ya3j"
+    },
+    "license": "MIT"
+}

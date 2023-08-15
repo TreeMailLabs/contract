@@ -1,0 +1,5 @@
+// The program input for dmail/src/main.leo
+[send]
+to: address = aleo1drmfsjg4l05lrluy9mxweet8txnl3gxnq4xqcutula3kkgjrm5ys0d3e7s;
+data: field = 47492058327012865727073368095603587372773862444134694527255191657field;
+time: u64 = 1689846706553u64
